@@ -11,3 +11,16 @@ C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Lab Solutions\PigLatin\PigLati
 C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Lab Solutions\PigLatin\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.pdb
 C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Lab Solutions\PigLatin\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.genruntimeconfig.cache
 C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Lab Solutions\PigLatin\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.csprojAssemblyReference.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\PigLatinBuggy\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.exe
+C:\Users\jmitchell11\OneDrive - Knex\repos\PigLatinBuggy\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.deps.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\PigLatinBuggy\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.runtimeconfig.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\PigLatinBuggy\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.runtimeconfig.dev.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\PigLatinBuggy\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\PigLatinBuggy\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmitchell11\OneDrive - Knex\repos\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.AssemblyInfoInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.AssemblyInfo.cs
+C:\Users\jmitchell11\OneDrive - Knex\repos\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.genruntimeconfig.cache
